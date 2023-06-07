@@ -64,5 +64,7 @@ public class Test1
         xwpfDocument.close();
         xwpfDocument.close();
 
+
+        Test2.main(null);
     }
 }
